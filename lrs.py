@@ -1,5 +1,5 @@
 import sys
-
+import time
 
 def lrs_dp(user):
     length = len(user)
